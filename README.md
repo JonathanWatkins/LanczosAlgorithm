@@ -1,3 +1,3 @@
 # PowerMethod
 
-Implementation of the Lanczos Algorithm for matrix diagonalisation
+Implementation of the Power Method for determining the eigenvalues of a Matrix
